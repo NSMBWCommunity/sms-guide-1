@@ -13,7 +13,7 @@ has_toc: false
 
 ## Picking a Platform
 In order to submit to the [official leaderboards](https://www.speedrun.com/sms), you need to play on one of the supported platforms:
-
+GTGR
 - Nintendo Wii/Gamecube
 - Nintendo Switch/Switch2
 
